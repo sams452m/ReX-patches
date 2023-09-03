@@ -1,3 +1,10 @@
+# [2.192.0](https://github.com/sams452m/ReX-patches/compare/v2.191.0...v2.192.0) (2023-09-03)
+
+
+### Features
+
+* Comment Composer ([15344a2](https://github.com/sams452m/ReX-patches/commit/15344a2a45e708e84dfcf81adde18431284411f2))
+
 # [2.191.0](https://github.com/sams452m/ReX-patches/compare/v2.190.0...v2.191.0) (2023-09-03)
 
 
