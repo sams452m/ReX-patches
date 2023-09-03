@@ -256,9 +256,9 @@
     <string name="revanced_hide_comments_section_summary_off">Comment section is shown</string>
     <string name="revanced_hide_comments_section_summary_on">Comment section is hidden</string>
     <string name="revanced_hide_comments_section_title">Hide comments section</string>
-    <string name="revanced_hide_composer_statics_summary_off">Comment composer is shown</string>
-    <string name="revanced_hide_composer_statics_summary_on">Comment composer is hidden</string>
-    <string name="revanced_hide_composer_statics_title">Hide comment composer</string>
+    <string name="revanced_hide_composer_static_summary_off">Comment composer is shown</string>
+    <string name="revanced_hide_composer_static_summary_on">Comment composer is hidden</string>
+    <string name="revanced_hide_composer_static_title">Hide comment composer</string>
     <string name="revanced_hide_community_posts_home_summary_off">Community posts in home feed are shown</string>
     <string name="revanced_hide_community_posts_home_summary_on">Community posts in home feed are hidden</string>
     <string name="revanced_hide_community_posts_home_title">Hide community posts in home feed</string>
