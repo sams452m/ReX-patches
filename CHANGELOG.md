@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [2.190.0](https://github.com/YT-Advanced/ReX-patches/compare/v2.189.0...v2.190.0) (2023-09-01)
 
 
@@ -14,6 +15,8 @@
 * **higher-seekbar-height:** This patch will increase the seekbar height, which is helpful for user who have a big screen ([3c9fe28](https://github.com/YT-Advanced/ReX-patches/commit/3c9fe28075eead38d65bb2bfbba5b4456d0d9c2c))
 * **youtube/layout:** Hide quality layout footer ([#20](https://github.com/YT-Advanced/ReX-patches/issues/20)) ([3224c7b](https://github.com/YT-Advanced/ReX-patches/commit/3224c7b337f5035e3141246106d671725659609a))
 
+=======
+>>>>>>> 1f00e889c936e5c9dfb77edbe3281cb64c69e57d
 # [2.190.0](https://github.com/YT-Advanced/ReX-patches/compare/v2.189.0...v2.190.0) (2023-08-29)
 
 
